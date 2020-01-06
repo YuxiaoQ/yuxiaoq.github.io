@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>InSAR on yuxiaoq.in</title>
+    <link>https://blog.yuxiaoq.in/tags/insar/</link>
+    <description>Recent content in InSAR on yuxiaoq.in</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright (c) 2020, YUXIAOQ.IN; all rights reserved.</copyright>
+    <lastBuildDate>Sun, 10 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.yuxiaoq.in/tags/insar/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Iceye 的干涉影像：小型 SAR 卫星的里程碑？</title>
+      <link>https://blog.yuxiaoq.in/posts/2020-05-10-iceye-interferometry/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.yuxiaoq.in/posts/2020-05-10-iceye-interferometry/</guid>
+      <description>重磅：Iceye 突然发布干涉影像产品 在关注合成孔径雷达（SAR）和干涉合成孔径雷达（InSAR）的业界人士和研究者眼里，最近的一则重磅新闻就是芬兰的初创小雷达卫星公司 Iceye 毫无征兆地发布了一则新闻，展示了他们的最新产品：两幅干涉图。
+之所以说毫无征兆，是因为 Iceye 从 2018 年成立至今，并没有宣传过他们的 SAR 影像成品可以用来做干涉（InSAR）。对于一直关注 SAR 商业小卫星的人们来说，InSAR 是 SAR 的一个极其重要的应用分支，如果不能做干涉，那么相当于扔掉了 SAR 影像中 50% 的数据信息。所以，SAR 小卫星是否可以做干涉，一直是大家比较关注的。在 5 月之前，Iceye 似乎从来没有提起过他们的卫星有关干涉的能力或计划，而所有的宣传（Public Relations, PR）也都主要放在了变化检测（例如农业用地变化、非法船只监控）和高分辨率（可以达到惊人的 25cm 的分辨率）上面。
+  Iceye 发布的农田随时间变化的 SAR 影像图。来源：Iceye 官网
+    Iceye 官网上所发布的用于做非法船只检测的一个互动界面。来源：Iceye 官网
+  而在 5 月 6 日，Iceye 却突然在官网上发布了两张干涉图的样片。两张干涉图都是 18 天的重访周期，一张是在南非开普敦，用的是条带（stripmap） 模式，分辨率应该是 3 m；另外一张是在澳大利亚西北的 Point Samson，用的是聚焦（spotlight）模式，其分辨率是 1m 左右 。发布的这两张图，除了说明 18 天的重访周期以外，并没有透露其它数据细节，也没有提供样例数据供大家下载。
+ Finnish New Space leader ICEYE is the first in the world to demonstrate interferometric capabilities from synthetic-aperture radar (SAR) satellites under 100kg (220 pounds) in mass.</description>
+    </item>
+    
+  </channel>
+</rss>
